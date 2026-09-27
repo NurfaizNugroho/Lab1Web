@@ -3,7 +3,7 @@
 Repositori ini berisi hasil pengerjaan Praktikum 1 mata kuliah Pemrograman Web mengenai penggunaan tag-tag dasar pada HTML.
 
 ## Data Mahasiswa
-- **Nama:** Nurfaiz
+- **Nama:** Nurfaiz Pradibto Nugroho
 - **NIM:** 312510172
 - **Mata Kuliah:** Pemrograman Web
 - **Instansi:** Universitas Pelita Bangsa
